@@ -1,0 +1,5523 @@
+{
+    "Status": 200,
+    "Success": true,
+    "Message": "Success",
+    "Data": [
+        {
+            "BillerTag": "PLDT",
+            "Description": "PLDT (Cruztelco,Maratel,Subictel,Clarktel,Philcom)",
+            "Category": "Telecommunications",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number ",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "2 Digit AreaCode + Telephone Number",
+                    "Format": "Numeric",
+                    "Width": "9"
+                }
+            ],
+            "Remarks": "PAYMENTS made beyond 08:00 PM will be posted the next day. Past due and disconnected Account can still be accepted.",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "SMART",
+            "Description": "SMART COMMUNICATIONS",
+            "Category": "Telecommunications",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "11 Digit Mobile Number / Service Reference Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                }
+            ],
+            "Remarks": "PAYMENTS made beyond 12:00 PM will be posted the next day. Past due and disconnected Account can still be accepted.",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "MANILAWATER",
+            "Description": "MANILA WATER COMPANY",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "8 Digit Contract Account Number ",
+                    "Format": "Numeric",
+                    "Width": "8"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "PAYMENTS made beyond 08:30 PM will be posted the next day. Past due and disconnected Account can still be accepted.",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "MAYNILAD",
+            "Description": "MAYNILAD WATER SERVICES",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "8 Digit Contract Account Number ",
+                    "Format": "Numeric",
+                    "Width": "8"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "PAYMENTS made beyond 02:00 PM will be posted the next day. Past due and disconnected Account can still be accepted.",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "GLOBELINES",
+            "Description": "INNOVE COMMUNICATIONS INC.",
+            "Category": "Telecommunications",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "9 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due and disconnected Account can still be accepted.Transaction is posted real-time (voiding not allowed)",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "GHPHONE",
+            "Description": "GLOBE TELECOMMUNICATIONS INC",
+            "Category": "Telecommunications",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "8-10 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name  ",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Transaction is posted real-time (voiding not allowed). ",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "CABLELINK",
+            "Description": "CABLELINK",
+            "Category": "Cable and Internet",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "9 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "9"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due and disconnected Account can still be acceptedPAYMENTS made beyond 03:00 PM will be posted the next day",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "PRIMEWATER",
+            "Description": "PRIME WATER INFRASTRUCTURE CORPORATION",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Numeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "ATM Reference Number",
+                    "Format": "Numeric",
+                    "Width": "14"
+                }
+            ],
+            "Remarks": "Payment made beyond 12:00AM will be posted the next day. ",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "DIGITEL",
+            "Description": "DIGITAL TELECOMMUNICATIONS PHILIPPINES INC. ",
+            "Category": "Telecommunications",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "2 Digit AreaCode + Telephone Number",
+                    "Format": "Numeric",
+                    "Width": "9"
+                }
+            ],
+            "Remarks": "Past due and disconnected Account can still be accepted  &nbsp;  PAYMENTS made beyond 02:00 PM will be posted the next day  &nbsp;\r\n",
+            "Status": false,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "SUNCELLULAR",
+            "Description": "DIGITEL MOBILE PHILIPPINES INC.",
+            "Category": "Telecommunications",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                }
+            ],
+            "Remarks": "Past due and disconnected Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "BAYANTEL",
+            "Description": "BAYAN TELECOMMUNICATIONS",
+            "Category": "Telecommunications\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "9 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "9"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "2 Digit AreaCode + Telephone Number",
+                    "Format": "Numeric",
+                    "Width": "9"
+                }
+            ],
+            "Remarks": "Past due and disconnected Account can still be accepted.",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "PLANET_CABLES",
+            "Description": "PLANET CABLE",
+            "Category": "Cable and Internet",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10-12 Digit Account Number ",
+                    "Format": "Numeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "ATM Reference Number",
+                    "Format": "Numeric",
+                    "Width": "14"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "GOLDEN_HAVEN",
+            "Description": "GOLDEN HAVEN MEMORIAL PARK",
+            "Category": "Memorial Plan",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "9 Digit Account Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "9"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "VECO",
+            "Description": "VISAYAN ELECTRIC COMPANY",
+            "Category": "Electric Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "11 Digit Account ID ",
+                    "Format": "Numeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due and disconnected Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 4.00
+        },
+        {
+            "BillerTag": "DAVAOLIGHT",
+            "Description": "DAVAO LIGHT & POWER COMPANY INC.",
+            "Category": "Electric Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "11 Digit Account ID",
+                    "Format": "Numeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due and disconnected Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 4.00
+        },
+        {
+            "BillerTag": "STA_LUCIA_REALTY_AND_DEVT",
+            "Description": "STA. LUCIA REALTY & DEVELOPMENT INC.",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "12 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Bill Number",
+                    "Format": "Numeric",
+                    "Width": "12"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "SUMISHO",
+            "Description": "SUMISHO MOTOR FINANCE CORP",
+            "Category": "Loans\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "15 Digit Loan Account Number",
+                    "Format": "Numeric",
+                    "Width": "15"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "SUBIC_ENERZONE",
+            "Description": "SUBIC ENERZONE CORPORATION",
+            "Category": "Electric Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "11 Digit Account ID",
+                    "Format": "Numeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due and disconnected Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 4.00
+        },
+        {
+            "BillerTag": "NORKIS",
+            "Description": "NORKIS FINANCIAL",
+            "Category": "Loans\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "13 Digit Reference Number ",
+                    "Format": "Numeric",
+                    "Width": "13"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "CIGNAL_V2",
+            "Description": "CIGNAL TV",
+            "Category": "Cable and Internet",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "PAYMENTS made beyond 12:00 AM will be posted the next day. Past due and disconnected Account can still be accepted. ",
+            "Status": false,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "UNISTAR",
+            "Description": "UNISTAR CREDIT CORP",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "11 Digit Agreement Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "DEACTIVATED",
+            "Status": false,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "SKYCABLE",
+            "Description": "SKYCABLE",
+            "Category": "Cable and Internet",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "9 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "9"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "PAYMENTS made beyond 04:00 PM will be posted the next day. Past due and disconnected Account can still be accepted. ",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "BENECO",
+            "Description": "BENGUET ELECTRIC COOPERATIVE INC.",
+            "Category": "Electric Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "11 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION.",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "EASYTRIP",
+            "Description": "EASYTRIP / EASYDRIVE",
+            "Category": "Electronic Cash\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Numeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "DEACTIVATED BILLER - TRANSFERRED TO ECCASH\r\n",
+            "Status": false,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "ILECO1",
+            "Description": "ILOILO I ELECTRIC COOPERATIVE INC.",
+            "Category": "Electric Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "LEGAZPI_WATER",
+            "Description": "LEGAZPI CITY WATER DISTRICT",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "9 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "9"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due Account can still be accepted but NO PARTIAL PAYMENTS.",
+            "Status": true,
+            "ServiceCharge": 8.00
+        },
+        {
+            "BillerTag": "PAL",
+            "Description": "PHILIPPINE AIRLINES",
+            "Category": "Airlines",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "16 Digit Reference Number",
+                    "Format": "Numeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                }
+            ],
+            "Remarks": "Transaction is posted real-time (voiding not allowed)",
+            "Status": false,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "TABACO_WATER",
+            "Description": "TABACO CITY WATER DISTRICT",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "9 Digit Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "9"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "DCTV_CABLE",
+            "Description": "DCTV CABLE",
+            "Category": "Cable and Internet",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "9-11 Digit Subscriber Code",
+                    "Format": "Alphanumeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due and disconnected Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 8.00
+        },
+        {
+            "BillerTag": "MCWD",
+            "Description": "METROPOLITAN CEBU WATER DISTRICT",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "6 Digit Consumer Code",
+                    "Format": "Numeric",
+                    "Width": "6"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Multiple transaction for one Account is not allowedPAYMENTS made beyond 08:00 PM will be posted the next day  &nbsp;",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "STA_MARIA_WATER",
+            "Description": "STA. MARIA WATER DISTRICT",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "ID Number",
+                    "Format": "Numeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept Bill 2 days before DUE DATE to avoid DISCONNECTION",
+            "Status": true,
+            "ServiceCharge": 10.00
+        },
+        {
+            "BillerTag": "MFI_LENDING",
+            "Description": "FIRST MFI NETWORK LENDING",
+            "Category": "Loans\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "5 Digit Loan ID Number",
+                    "Format": "Numeric",
+                    "Width": "5"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name  ",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 10.00
+        },
+        {
+            "BillerTag": "COTABATO_LIGHT",
+            "Description": "COTABATO LIGHT ",
+            "Category": "Electric Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "11 Digit Account ID",
+                    "Format": "Numeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due and disconnected Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 4.00
+        },
+        {
+            "BillerTag": "PESOPAY",
+            "Description": "PESOPAY",
+            "Category": "Payment Gateway",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "20 Digit Reference Number",
+                    "Format": "Numeric",
+                    "Width": "20"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "PAYMENTS made beyond 12:00 AM will be posted the next day  &nbsp;",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "PRESCO",
+            "Description": "PAMPANGA RURAL ELECTRIC COOPERATIVE INC.",
+            "Category": "Electric Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "MAYBRIDGE",
+            "Description": "MAYBRIDGE FINANCIAL",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "8 Digit Product Code + BDAY (mmddyy)",
+                    "Format": "Numeric",
+                    "Width": "8"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "ICONNEX",
+            "Description": "ICONNEX SOLUTIONS",
+            "Category": "Collection Service",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "18 Digit Member ID",
+                    "Format": "Numeric",
+                    "Width": "18"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Case Number",
+                    "Format": "Numeric",
+                    "Width": "16"
+                }
+            ],
+            "Remarks": "PAYMENTS made beyond 12:00 AM will be posted the next day  &nbsp;",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "METRO_FASTBET",
+            "Description": "METRO MANILA TURF CLUB INC (METROTURF)",
+            "Category": "Collection Service",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "8 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "8"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Transaction is posted real-time (voiding not allowed)  &nbsp;",
+            "Status": true,
+            "ServiceCharge": 12.00
+        },
+        {
+            "BillerTag": "FIRST_PEAK",
+            "Description": "FIRST PEAK RESOURCES & TECHNOLOGIES INC.",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "12 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "ATM Reference Number",
+                    "Format": "Numeric",
+                    "Width": "14"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "BATELEC1",
+            "Description": "BATANGAS I ELECTRIC COOPERATIVE INC.",
+            "Category": "Electric Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION.",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "PLARIDEL_WATER",
+            "Description": "PLARIDEL WATER DISTRICT",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "9-10 Digit Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name  ",
+                    "Format": "Alphanumeric",
+                    "Width": "50"
+                }
+            ],
+            "Remarks": "Accept Bills with ARREARS On or Before your DUE DATE to avoid disconnection",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "CHINATRUST",
+            "Description": "CTBC BANK (PHILIPPINES) CORPORATION",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Numeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "GATE",
+            "Description": "GATE DISTRIBUTION",
+            "Category": "Fund Transfer\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "16 Digit Account ID",
+                    "Format": "Numeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name  ",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "DISABLED",
+            "Status": false,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "BATELEC2",
+            "Description": "BATANGAS II ELECTRIC COOPERATIVE INC.",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "7 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "7"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "PAYMENTS made beyond 12:00 AM will be posted the next day. Total Current Bill Without Arrears must be paid On or Before the Payment Center Due Date. ",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "LAGUNAWATER",
+            "Description": "LAGUNA WATER CORPORATION",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "8 Digit Contract Account Number",
+                    "Format": "Numeric",
+                    "Width": "8"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due and disconnected Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "BAGUIO_WATER",
+            "Description": "BAGUIO CITY WATER DISTRICT",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10-11 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric\r\n",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Only water bills without arrears shall be accepted.&nbsp;",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "BPI_CREDITCARD",
+            "Description": "BPI CREDIT CARD",
+            "Category": "Credit Cards",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "16 Digit Account Number / Card Number",
+                    "Format": "Numeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "PAYMENTS made beyond 12:00 AM will be posted the next dayPast due and disconnected Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "CAMNORTE_WATER",
+            "Description": "CAMARINES NORTE WATER DISTRICT",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name  ",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION",
+            "Status": false,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "ANGELES_ELECTRIC",
+            "Description": "ANGELES ELECTRIC COMPANY",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "16 Digit ATM Reference Number",
+                    "Format": "Numeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Due Date (mmddyyyy)",
+                    "Format": "Numeric",
+                    "Width": "8"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION.",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "BP_WATERWORKS",
+            "Description": "BP WATERWORKS INC.",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "12 Digit Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "PAYMENTS made beyond 12:00 AM will be posted the next day. Past due and disconnected Account can still be accepted. ",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "GOODHANDS_WATER",
+            "Description": "GOOD HANDS WATER SPECIALIST INC.",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "12 Digit Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "To avoid DISCONNECTION, pay the TOTAL AMOUNT DUE printed in your SOA.  Partial payments will result in DISCONNECTION. Thank you for your cooperation.",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "HAPPYWELL",
+            "Description": "HAPPY WELL MANAGEMENT & COLLECTION SERVICES INC.",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "12 Digit Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due and disconnected Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "TARELCO2",
+            "Description": "TARLAC II ELECTRIC COOPERATIVE INC.",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "13"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name  ",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before 04:00pm of the DUE DATE to avoid DISCONNECTION",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "AXA_PHILIPPINES_LIFE",
+            "Description": "PHILIPPINE AXA LIFE INSURANCE CORPORATION\r\n",
+            "Category": "Insurance",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Policy Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "PAYMENTS made beyond 12:00 AM will be posted the next day. Past due Account can still be accepted.",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "NEECO2_AREA1",
+            "Description": "NUEVA ECIJA II ELECTRIC COOPERATIVE AREA 1\r\n",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Subscriber Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Total Current Bill Without Arrears must be paid On or Before Due Date",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "CONVERGE_ICT",
+            "Description": "CONVERGE ICT SOLUTIONS INC",
+            "Category": "Cable and Internet",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "13 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "13"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Transaction is posted real-time (voiding not allowed)",
+            "Status": false,
+            "ServiceCharge": 7.00
+        },
+        {
+            "BillerTag": "ANGELES_CABLE",
+            "Description": "ANGELES CABLE",
+            "Category": "Cable and Internet",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "13 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "13"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "ANGELES_CABLE Payments are posted Real-Time.  &nbsp;",
+            "Status": false,
+            "ServiceCharge": 7.00
+        },
+        {
+            "BillerTag": "CENTRAL_LUZON_CABLE",
+            "Description": "CENTRAL LUZON CABLE",
+            "Category": "Cable and Internet",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "13 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "13"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "CENTRAL_LUZON_CABLE Payments are posted Real-Time.  &nbsp;",
+            "Status": false,
+            "ServiceCharge": 7.00
+        },
+        {
+            "BillerTag": "HITECH_CABLE",
+            "Description": "HI TECH CABLE",
+            "Category": "Cable and Internet",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "13 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "13"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "HI TECH CABLE Payments are posted Real-Time.  &nbsp;",
+            "Status": false,
+            "ServiceCharge": 7.00
+        },
+        {
+            "BillerTag": "PRIMECAST_CABLE",
+            "Description": "MLAMB TARLAC CABLE (PRIMECAST CABLE)",
+            "Category": "Cable and Internet",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "13 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "13"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "PRIMECAST CABLE Payments are posted Real-Time.  &nbsp;",
+            "Status": false,
+            "ServiceCharge": 7.00
+        },
+        {
+            "BillerTag": "DARAGA_WATER",
+            "Description": "DARAGA WATER DISTRICT",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "9 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "9"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTIONPAYMENTS made beyond 12:00 AM will be posted the next day",
+            "Status": true,
+            "ServiceCharge": 8.00
+        },
+        {
+            "BillerTag": "PELCO2",
+            "Description": "PAMPANGA II ELECTRIC COOPERATIVE INC.",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Total Current Bill Without Arrears must be paid On or Before Due Date",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "AUB_CREDITCARDS",
+            "Description": "ASIA UNITED BANK CREDIT CARDS",
+            "Category": "Credit Cards",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "16 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due Account can still be accepted.",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "RS_PROPERTY",
+            "Description": "RS PROPERTY MANAGEMENT ",
+            "Category": "Real Estate",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "12 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Bill Number",
+                    "Format": "Numeric",
+                    "Width": "12"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION",
+            "Status": true,
+            "ServiceCharge": 12.00
+        },
+        {
+            "BillerTag": "CANORECO",
+            "Description": "CAMARINES NORTE ELECTRIC COOPERATIVE",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Total Current Bill Without Arrears must be paid On or Before Due Date",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "INEC",
+            "Description": "ILOCOS NORTE ELECTRIC COOPERATIVE INC.",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "2 days past due can still be accepted (Please note with P56.00 penalty charge) ",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "HONEYCOMB",
+            "Description": "HONEYCOMB BUILDERS",
+            "Category": "Real Estate",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number / ID Code",
+                    "Format": "Alphanumeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name  ",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "PELCO3",
+            "Description": "PAMPANGA III ELECTRIC COOPERATIVE INC.",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "8 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "8"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Total Current Bill Without Arrears must be paid On or Before Due Date",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "FLECO",
+            "Description": "FIRST LAGUNA ELECTRIC COOPERATIVE INC.",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "PAYMENTS made beyond 12:00 AM will be posted the next day. Accept Bills On or Before DUE DATE to avoid DISCONNECTION.",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "GOLDEN_EAGLE_CABLE",
+            "Description": "GOLDEN EAGLE CABLE",
+            "Category": "Cable and Internet",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "13 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "13"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "GOLDEN EAGLE CABLE Payments are posted Real-Time.  &nbsp;",
+            "Status": false,
+            "ServiceCharge": 7.00
+        },
+        {
+            "BillerTag": "PINC",
+            "Description": "PAY IN CASH",
+            "Category": "Collection Service",
+            "FieldDetails": [
+                {"Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Numeric",
+                    "Width": "13"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name  ",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Transaction is posted real-time (voiding not allowed)",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "CALUMPIT_WATER",
+            "Description": "CALUMPIT WATER DISTRICT",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "7 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "7"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before 03:30pm of the DUE DATE to avoid DISCONNECTION",
+            "Status": true,
+            "ServiceCharge": 8.00
+        },
+        {
+            "BillerTag": "COCOLIFE",
+            "Description": "UNITED COCONUT PLANTERS LIFE ASSURANCE CORPORATION",
+            "Category": "Insurance",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "8 Digit Policy Number",
+                    "Format": "Alphanumeric",
+                    "Width": "8"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "TAGUM_WATER",
+            "Description": "TAGUM WATER DISTRICT",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "6 Digit Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "6"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "SERVEFIRST",
+            "Description": "SERVEFIRST",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Client Code",
+                    "Format": "Alphanumeric",
+                    "Width": "13"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name  ",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due Account can still be acceptedPAYMENTS made beyond 12:00 AM will be posted the next day",
+            "Status": false,
+            "ServiceCharge": 20.00
+        },
+        {
+            "BillerTag": "MABALACAT_WATER",
+            "Description": "MABALACAT CITY WATER DISTRICT",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "7 Digit Account Number",
+                    "Format": "Alphanumeric\r\n",
+                    "Width": "7"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before your DUE DATE to avoid DISCONNECTIONPAYMENTS made beyond 12:00 AM will be posted the next day  &nbsp;",
+            "Status": true,
+            "ServiceCharge": 8.00
+        },
+        {
+            "BillerTag": "NEECO2_AREA2",
+            "Description": "NUEVA ECIJA II ELECTRIC COOPERATIVE AREA 2\r\n",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Numeric",
+                    "Width": "7"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accounts with ARREARS cannot be accepted",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "PHILSMILE",
+            "Description": "PHILSMILE (PADALA ESKWELA)",
+            "Category": "Education",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "16 Digit Student Number",
+                    "Format": "Alphanumeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "School Name",
+                    "Format": "Alphanumeric",
+                    "Width": "32"
+                }
+            ],
+            "Remarks": "Transaction is posted real-time (voiding not allowed)",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "PENELCO",
+            "Description": "PENINSULA ELECTRIC COOPERATIVE INC.",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "BORACAYWATER",
+            "Description": "BORACAY ISLAND WATER COMPANY",
+            "Category": "Water Utility",
+            "FieldDetails": [{
+                "Tag": "First Field",
+                "Caption": "8 Digit Contract Account Number",
+                "Format": "Numeric",
+                "Width": "8"
+            },
+            {
+                "Tag": "Second Field",
+                "Caption": "Account Name",
+                "Format": "Alphanumeric",
+                "Width": "30"
+            }
+        ],
+        "Remarks": "Past due and disconnected Account can still be accepted",
+        "Status": true,
+        "ServiceCharge": 0.00
+    },
+    {
+        "BillerTag": "CLARKWATER",
+        "Description": "CLARK WATER CORPORATION",
+        "Category": "Water Utility",
+        "FieldDetails": [
+            {
+                "Tag": "First Field",
+                "Caption": "8 Digit Contract Account Number",
+                "Format": "Numeric",
+                "Width": "8"
+            },
+            {
+                "Tag": "Second Field",
+                "Caption": "Account Name",
+                "Format": "Alphanumeric",
+                "Width": "30"
+            }
+        ],
+        "Remarks": "Past due and disconnected Account can still be accepted",
+        "Status": true,
+        "ServiceCharge": 0.00
+    },
+    {
+        "BillerTag": "ITIAIR",
+        "Description": "ITI AIR",
+        "Category": "Airlines",
+        "FieldDetails": [
+            {
+                "Tag": "First Field",
+                "Caption": "Reference Number",
+                "Format": "Alphanumeric",
+                "Width": "6"
+            },
+            {
+                "Tag": "Second Field",
+                "Caption": "11 Digit Mobile Number",
+                "Format": "Numeric",
+                "Width": "11"
+            }
+        ],
+        "Remarks": "Transaction is posted real-time (voiding not allowed)",
+        "Status": false,
+        "ServiceCharge": 0.00
+    },
+    {
+        "BillerTag": "VIACOM",
+        "Description": "VIA.COM",
+        "Category": "Airlines",
+        "FieldDetails": [
+            {
+                "Tag": "First Field",
+                "Caption": "Reference Number/FRAG ID",
+                "Format": "Alphanumeric",
+                "Width": "12"
+            },
+            {
+                "Tag": "Second Field",
+                "Caption": "Account Name",
+                "Format": "Alphanumeric\r\n",
+                "Width": "30"
+            }
+        ],
+        "Remarks": "Transaction is posted real-time (voiding not allowed)",
+        "Status": true,
+        "ServiceCharge": 60.00
+    },
+    {
+        "BillerTag": "PARAMOUNT",
+        "Description": "PARAMOUNT LIFE & GENERAL INSURANCE CORPORATION",
+        "Category": "Insurance",
+        "FieldDetails": [
+            {
+                "Tag": "First Field",
+                "Caption": "Refernce Number",
+                "Format": "Alphanumeric",
+                "Width": "14"
+            },
+            {
+                "Tag": "Second Field",
+                "Caption": "Insured / Assured Name",
+                "Format": "Alphanumeric",
+                "Width": "30"
+            }
+        ],
+        "Remarks": "Past due Account can still be accepted",
+        "Status": true,
+        "ServiceCharge": 0.00
+    },
+    {
+        "BillerTag": "GLOBAL_DOMINION",
+        "Description": "GLOBAL DOMINION FINANCING INC.",
+        "Category": "Loans",
+        "FieldDetails": [
+            {
+                "Tag": "First Field",
+                "Caption": "20 Digit PN Number",
+                "Format": "Alphanumeric",
+                "Width": "20"
+            },
+            {
+                "Tag": "Second Field",
+                "Caption": "Account Name  ",
+                "Format": "Alphanumeric",
+                "Width": "30"
+            }
+        ],
+        "Remarks": "Past due Account can still be accepted",
+        "Status": true,
+        "ServiceCharge": 15.00
+    },
+    {
+        "BillerTag": "PILI_WATER",
+        "Description": "PILI WATER DISTRICT\t",
+        "Category": "Water Utility",
+        "FieldDetails": [
+            {
+                "Tag": "First Field",
+                "Caption": "6 Digit Account Code",
+                "Format": "Numeric",
+                "Width": "6"
+            },
+            {
+                "Tag": "Second Field",
+                "Caption": "Customer Name",
+                "Format": "Alphanumeric",
+                "Width": "30"
+            }
+        ],
+        "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION",
+        "Status": true,
+        "ServiceCharge": 8.00
+    },
+    {
+        "BillerTag": "INSULAR_SAVERS",
+        "Description": "INSULAR SAVERS BANK",
+        "Category": "Loans",
+        "FieldDetails": [
+            {
+                "Tag": "First Field",
+                "Caption": "14 Digit PN Number",
+                "Format": "Alphanumeric",
+                "Width": "14"
+            },
+            {
+                "Tag": "Second Field",
+                "Caption": "Account Name",
+                "Format": "Alphanumeric",
+                "Width": "30"
+            }
+        ],
+        "Remarks": "Past due Account can still be accepted",
+        "Status": true,
+        "ServiceCharge": 15.00
+    },
+    {
+        "BillerTag": "SITELCO",
+        "Description": "SOUTHERN ILOILO TELEPHONE COMPANY",
+        "Category": "Telecommunications",
+        "FieldDetails": [
+            {
+                "Tag": "First Field",
+                "Caption": "10 Digit Account Number",
+                "Format": "Numeric",
+                "Width": "10"
+            },
+            {
+                "Tag": "Second Field",
+                "Caption": "2 Digit AreaCode + Telephone Number",
+                "Format": "Numeric",
+                "Width": "10"
+            }
+        ],
+        "Remarks": "Past due and disconnected Account can still be accepted",
+        "Status": true,
+        "ServiceCharge": 0.00
+    },
+    {
+        "BillerTag": "CEBECO2",
+        "Description": "CEBU II ELECTRIC COOPERATIVE INC",
+        "Category": "Electric Utility",
+        "FieldDetails": [
+            {
+                "Tag": "First Field",
+                "Caption": "10 Digit Account Number",
+                "Format": "Numeric",
+                "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "SSS",
+            "Description": "Social Security System",
+            "Category": "Government",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "14"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Member Name",
+                    "Format": "Alphanumeric",
+                    "Width": "99"
+                }
+            ],
+            "Remarks": "Transaction is posted real-time (voiding not allowed)|May accept any amount multiple of Php100.00 but not less than P1,000 but not exceeding P500,000.00 within a year.",
+            "Status": false,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "PAGIBIG",
+            "Description": "PAGIBIG",
+            "Category": "Government",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "12 Digit Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Member Name",
+                    "Format": "Alphanumeric",
+                    "Width": "20"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 7.00
+        },
+        {
+            "BillerTag": "LIPA_BANK",
+            "Description": "LIPA BANK",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Loan Number",
+                    "Format": "Numeric",
+                    "Width": "15"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "50"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid PENALTY",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "NUVELCO",
+            "Description": "NUEVA VIZCAYA ELECTRIC COOPERATIVE",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "12 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Consumer Name",
+                    "Format": "Alphanumeric",
+                    "Width": "50"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "PERAJET",
+            "Description": "PERAJET",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "CAGELCO1",
+            "Description": "CAGAYAN 1 ELECTRIC COOPERATIVE INC ",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Contact Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                }
+            ],
+            "Remarks": "Payment can be ACCEPTED ON or BEFORE DUE DATE.",
+            "Status": true,
+            "ServiceCharge": 8.00
+        },
+        {
+            "BillerTag": "SOUTH_ASIALINK",
+            "Description": "SOUTH_ASIALINK",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "14-16 Digit PN Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "20"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "CABLE_TELEVISION",
+            "Description": "CABLE_TELEVISION",
+            "Category": "Cable and Internet",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "20 Digit Account Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "20"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "SORECO2",
+            "Description": "SORSOGON II ELECTRIC COOPERATIVE, INC",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Numeric",
+                    "Width": "7"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "SHADOW_TRAVEL",
+            "Description": "SHADOW_TRAVEL",
+            "Category": "Collection Service",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Reference Number",
+                    "Format": "Alphanumeric",
+                    "Width": "8"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                }
+            ],
+            "Remarks": "Transaction is posted real-time (voiding not allowed)",
+            "Status": false,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "TAGUM_COOP",
+            "Description": "TAGUM_COOP",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "20"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name  ",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "PARASAT",
+            "Description": "PARASAT",
+            "Category": "Cable and Internet",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "9 Digit Reference Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "9"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "CDO_WATER",
+            "Description": "CAGAYAN DE ORO WATER",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "9 Digit WIN",
+                    "Format": "Numeric",
+                    "Width": "9"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 8.00
+        },
+        {
+            "BillerTag": "CEPALCO",
+            "Description": "CAGAYAN ELECTRIC POWER AND LIGHT COMPANY, INC.",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Contract Number",
+                    "Format": "Numeric",
+                    "Width": "9"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Alphanumeric",
+                    "Width": "11"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "LAGUNA_WATER_DISTRICT",
+            "Description": "LAGUNA WATER DISTRICT AQUATECH RESOURCES CORP.",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "PAYMENTS made beyond 05:00 PM will be posted the next day. Past due accounts, partial and over payments can be accepted. No disconnection bills shall be accepted.",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "EASYCASH",
+            "Description": "EASYCASH",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "5 Digit Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "5"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Alphanumeric",
+                    "Width": "11"
+                }
+            ],
+            "Remarks": "Past due Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 20.00
+        },
+        {
+            "BillerTag": "ZAMECO2",
+            "Description": "ZAMBALES II ELECTRIC COOPERATIVE, INC.",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "5-7 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "7"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Bill Number",
+                    "Format": "Alphanumeric",
+                    "Width": "10"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION",
+            "Status": false,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "OEDC",
+            "Description": "OLONGAPO ELECTRICITY DISTRIBUTION COMPANY INC.",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "6-9 Digit Contract Number",
+                    "Format": "Numeric",
+                    "Width": "9"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "50"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "RDAK_LAND",
+            "Description": "BAYANIHAN FLATS - RDAK LAND",
+            "Category": "Real Estate",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "11 Digit Account Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due Account can still be accepted.",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "DASURECO",
+            "Description": "DAVAO DEL SUR I ELECTRIC COORPERATIVE, INC.",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "9 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "9"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "ZAMECO1",
+            "Description": "ZAMBALES I ELECTRIC COORPERATIVE, INC.",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "SOUTH_LUZON_CATV",
+            "Description": "SOUTH LUZON CATV INC.",
+            "Category": "Cable and Internet",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Numeric",
+                    "Width": "13"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Subscriber Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "SOUTH LUZON CATV Payments are posted Real-Time.",
+            "Status": true,
+            "ServiceCharge": 7.00
+        },
+        {
+            "BillerTag": "JMD_CABLE_NETWORK",
+            "Description": "JMD CABLE NETWORK INC.",
+            "Category": "Cable and Internet",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Numeric",
+                    "Width": "13"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Subscriber Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "JMD_CABLE_NETWORK Payments are posted Real-Time.",
+            "Status": true,
+            "ServiceCharge": 7.00
+        },
+        {
+            "BillerTag": "ENTERPRISEBANK_LOAN",
+            "Description": "ENTERPRISEBANK LOAN",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "20 Digit PN Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "20"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "ISECO",
+            "Description": "Ilocos Sur Electric Cooperative, Inc.",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "MANILAWATER_PHILVENTURES",
+            "Description": "MANILAWATER PHILIPPINE VENTURES",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "8 Digit Contract Account Number",
+                    "Format": "Numeric",
+                    "Width": "8"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "PAWNONE",
+            "Description": "PAWNONE",
+            "Category": "Collection Service",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Subscriber Name",
+                    "Format": "Alphanumeric",
+                    "Width": "50"
+                }
+            ],
+            "Remarks": "DEACTIVATED BILLER",
+            "Status": true,
+            "ServiceCharge": 50.00
+        },
+        {
+            "BillerTag": "CELESTIAL_MEADOWS",
+            "Description": "CELESTIAL_MEADOWS",
+            "Category": "Memorial Plan",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit CTS Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "QUICKPERA",
+            "Description": "QUICKPERA",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Loan ID",
+                    "Format": "Alphanumeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "50"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "LIMA_ENERZONE",
+            "Description": "LIMA ENERZONE CORPORATION",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "11 Digit Account ID",
+                    "Format": "Numeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due and disconnected Account can still be accepted",
+            "Status": true,
+            "ServiceCharge": 4.00
+        },
+        {
+            "BillerTag": "WATERS_PH",
+            "Description": "WATERS PHILIPPINES",
+            "Category": "Collection Service",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "20 Digit Reference Number",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "PANELCO1",
+            "Description": "PANGASINAN I ELECTRIC COOPERATIVE, INC",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "LOAN_STAR",
+            "Description": "LOAN_STAR",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "8 Digit Reference Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "8"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "BICORE",
+            "Description": "BICORE",
+            "Category": "Cable and Internet",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "7 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "7"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due and disconnected Account can still be accepted.",
+            "Status": true,
+            "ServiceCharge": 30.00
+        },
+        {
+            "BillerTag": "OLM_FINANCING_CORP",
+            "Description": "OUR LADY OF MANAOAG LIVELIHOOD LENDING INC.",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "7 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "7"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "CONNEXT_MARKETING",
+            "Description": "CONNEXT MARKETING",
+            "Category": "Insurance",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Plate Number or Conduction Sticker ",
+                    "Format": "AlphaNumeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 25.00
+        },
+        {
+            "BillerTag": "ICASH_EXPRESS",
+            "Description": "I-Cash Express\r\n",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "7 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "7"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "RFC_LOAN",
+            "Description": "Radiowealth Finance",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "18 Digit Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "18"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Mobile Number + Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "50"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "FIL_PRODUCTS",
+            "Description": "FIL PRODUCTS INCORPORATED",
+            "Category": "Cable and Internet",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "11 Digit Account Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "AIRYOUGO_TRAVELS",
+            "Description": "AIR YOU GO TRAVELS PHILIPPINES CO.",
+            "Category": "Collection Service",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "8 Digit Reference Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "8"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 60.00
+        },
+        {
+            "BillerTag": "BROADBAND_EVERYWHERE",
+            "Description": "BROADBAND EVERYWHERE CORP",
+            "Category": "Cable and Internet",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Transaction is posted real-time (voiding not allowed)",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "SAJELCO",
+            "Description": "SAN JOSE CITY ELECTRIC COOPERATIVE",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "18-25 Digit Reference Number",
+                    "Format": "Numeric",
+                    "Width": "25"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "10-12 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "12"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "NOCECO",
+            "Description": "NEGROS OCCIDENTAL ELECTRIC COOPERATIVE",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "16 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 10.00
+        },
+        {
+            "BillerTag": "PANELCO3",
+            "Description": "PANGASINAN III ELECTRIC COOPERATIVE INC.",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "12 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept current BILL MONTH/YEAR only",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "ADDESSA_CORP",
+            "Description": "ADDESSA CORPORATION",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "12 Digit Customer ID",
+                    "Format": "Alphanumeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Customer Name",
+                    "Format": "Alphanumeric",
+                    "Width": "50"
+                }
+            ],
+            "Remarks": "Past due Account can still be acceptedPAYMENTS made beyond 12:00AM will be posted the next day",
+            "Status": false,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "QUEZELCO2",
+            "Description": "QUEZON II ELECTRIC COOPERATIVE, INC.",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept CURRENT AND PAST DUE (full amount inclusive Arrears and penalty) Bills",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "ANGELES_WATER",
+            "Description": "ANGELES CITY WATER DISTRICT",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "8 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "8"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Customer Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Payments can be accepted ON or BEFORE Due date only. Payments for Past Due bills shall be referred to ACWD's office.\r\n",
+            "Status": true,
+            "ServiceCharge": 10.00
+        },
+        {
+            "BillerTag": "BULACAN_WATER",
+            "Description": "BULACAN AQUA ESTATE",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "8 Digit Contract Account Number",
+                    "Format": "Numeric",
+                    "Width": "8"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Customer Name ",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "SIMBAYANAN_COOP",
+            "Description": "SIMBAYANAN NI MARIA MULTI-PURPOSE COOPERATIVE ",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "16 Digit Loan Type",
+                    "Format": "Alphanumeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "50"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 25.00
+        },
+        {
+            "BillerTag": "BACIWA",
+            "Description": "BACOLOD CITY WATER DISTRICT",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "9 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "9"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Customer Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Payments can be accepted ON or BEFORE Due date only. Payments for Past Due bills shall be referred to BACIWA's office.\r\n",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "FUSE_LENDING",
+            "Description": "FUSE LENDING INC",
+            "Category": "Loans\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Customer Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "CASURECO2",
+            "Description": "CAMARINES SUR II ELECTRIC COOPERATIVE",
+            "Category": "Electric Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "6 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "6"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due can be accepted (plus interest and arrears)\r\n",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "OBANDO_WATER",
+            "Description": "OBANDO WATER DISTRICT",
+            "Category": "Water Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "8 Digit Contract Account Number",
+                    "Format": "Numeric",
+                    "Width": "8"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Customer Name ",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 8.00
+        },
+        {
+            "BillerTag": "ILAGAN_WATER",
+            "Description": "ILAGAN CITY WATER DISTRICT",
+            "Category": "Water Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "8 Digit Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "8"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Customer Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 8.00
+        },
+        {
+            "BillerTag": "ISELCO1",
+            "Description": "ISABELA 1 ELECTRIC COOPERATIVE INC.",
+            "Category": "Electric Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "ACCEPT Bills On or Before DUE DATE to avoid disconnection\r\n",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "QUEZELCO1",
+            "Description": "QUEZON I ELECTRIC COOPERATIVE, INC.",
+            "Category": "Electric Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "ACCEPT PAYMENTS ON or Before DUE DATE and 2 days PAST DUE with Penalty.\r\n",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "DAGUPAN_CITY_WATER",
+            "Description": "DAGUPAN CITY WATER DISTRICT",
+            "Category": "Water Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "13 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "13"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "AFTER DUE bills and with PENALTY can still be ACCEPTED. Disconnected shall be refer to Dagupan Water Office.\r\n",
+            "Status": true,
+            "ServiceCharge": 10.00
+        },
+        {
+            "BillerTag": "ISELCO2",
+            "Description": "ISABELA 2 ELECTRIC COOPERATIVE INC.",
+            "Category": "Electric Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "50"
+                }
+            ],
+            "Remarks": "ACCEPT Bills On or Before DUE DATE to avoid disconnectionPAYMENTS made beyond 12:00AM will be posted the next day\r\n",
+            "Status": false,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "METRO_ILOILO_WATER",
+            "Description": "METRO ILOILO WATER DISTRICT",
+            "Category": "Water Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10-16 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Contact Number + Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Full payments of current and ovedue bills only. DO NOT ACCEPT PARTIAL PAYMENTS AND BILLS FOR DISCONNECTION \r\n",
+            "Status": true,
+            "ServiceCharge": 8.00
+        },
+        {
+            "BillerTag": "PAMI_INSURANCE",
+            "Description": "PAMI_INSURANCE",
+            "Category": "Insurance",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Numeric",
+                    "Width": "20"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 20.00
+        },
+        {
+            "BillerTag": "EAGLE_VISION_INC",
+            "Description": "EAGLE VISION INC",
+            "Category": "Cable and Internet\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "7"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "50"
+                }
+            ],
+            "Remarks": "Past due Account and With Penalty charges can still be accepted\r\n",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "EXCEL_CABLE",
+            "Description": "EXCEL CABLE NETWORK",
+            "Category": "Cable and Internet\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "50"
+                }
+            ],
+            "Remarks": "PAST DUE Account and With Penalty charges can still be acceptedPAYMENTS made beyond 12:00AM will be posted the next day.\r\n",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "SHAMA_BROADBAND_AND_CATV",
+            "Description": "SHAMA BROADBAND AND CATV NETWORKS INC.",
+            "Category": "Cable and Internet\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "50"
+                }
+            ],
+            "Remarks": "PAST DUE Account and With Penalty charges can still be acceptedPAYMENTS made beyond 12:00AM will be posted the next day.\r\n",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "TREND_CABLE",
+            "Description": "TREND CABLE NETWORK",
+            "Category": "Cable and Internet\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "50"
+                }
+            ],
+            "Remarks": "PAST DUE Account and With Penalty charges can still be acceptedPAYMENTS made beyond 12:00AM will be posted the next day.\r\n",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "MEGASAVER",
+            "Description": "MAC- 1ST MEGASAVER",
+            "Category": "Loans\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "50"
+                }
+            ],
+            "Remarks": "ACCEPT PAYMENTS on or Before DUE DATE, WITHOUT REBATE and WITH PENALTY.\r\n",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "ROBINSONSBANK_CREDITCARD",
+            "Description": "ROBINSONS BANK CREDIT CARD",
+            "Category": "Credit Cards",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Numeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "PAYMENTS made beyond 12:00 AM will be posted the next day",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "SANAGUSTINREALTY_SANCDEPAZ",
+            "Description": "SAN_AGUSTIN_REALTY(sanctuariodepaz)",
+            "Category": "Collection Service",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "12 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Customer Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "SFELAPCO",
+            "Description": "SAN FERNANDO LIGHT AND POWER COMPANY",
+            "Category": "Electric Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "15-16 Digit ATM Ref Number",
+                    "Format": "Numeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Customer Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "ACCEPT Bills On or Before DUE DATE to avoid disconnection\r\n",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "GALAXY_CABLE",
+            "Description": "GALAXY CABLE CORPORATION",
+            "Category": "Cable and Internet\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "11 Digit Subscriber ID",
+                    "Format": "Aphanumeric",
+                    "Width": "15"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                }
+            ],
+            "Remarks": "Transaction is posted real-time (voiding not allowed)\r\n",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "SUBIC_WATER",
+            "Description": "SUBIC WATER & SEWERAGE CO., INC",
+            "Category": "Water Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "8 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "8"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Customer Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "ACCEPT Bills On or Before DUE DATE to avoid disconnection\r\n",
+            "Status": true,
+            "ServiceCharge": 8.00
+        },
+        {
+            "BillerTag": "GENTRIAS_CABLE",
+            "Description": "GENERAL TRIAS CABLE NETWORK INC",
+            "Category": "Cable and Internet\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "7 Digit Account Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due Account and With Penalty charges can still be accepted\r\n",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "PISOPAY",
+            "Description": "PISOPAY.COM",
+            "Category": "Collection Service",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "16 Digit ATM Reference Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Customer Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Transaction is posted real-time (voiding not allowed)",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "JOHNDORF_VENTURES",
+            "Description": "JOHNDORF VENTURES",
+            "Category": "Real Estate\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 15.00},
+            {
+                "BillerTag": "MORESCO1",
+                "Description": "MISAMIS ORIENTAL-1 RURAL ELECTRIC SERVICE COOP",
+                "Category": "Electric Utility\r\n",
+                "FieldDetails": [
+                    {
+                        "Tag": "First Field",
+                        "Caption": "Account Number",
+                        "Format": "AlphaNumeric",
+                        "Width": "11"
+                    },
+                    {
+                        "Tag": "Second Field",
+                        "Caption": "Account Name",
+                        "Format": "AlphaNumeric",
+                        "Width": "30"
+                    }
+                ],
+                "Remarks": "Payment with ARREARS or FOR DISCONNECTION shall be referred to MORESCO1\r\n",
+                "Status": true,
+                "ServiceCharge": 6.00
+            },
+            {
+                "BillerTag": "CEBECO3",
+                "Description": "CEBECO3",
+                "Category": "Electric Utility\r\n",
+                "FieldDetails": [
+                    {
+                        "Tag": "First Field",
+                        "Caption": "8 Digit Account Number",
+                        "Format": "AlphaNumeric",
+                        "Width": "8"
+                    },
+                    {
+                        "Tag": "Second Field",
+                        "Caption": "Account Name",
+                        "Format": "AlphaNumeric",
+                        "Width": "30"
+                    }
+                ],
+                "Remarks": " Current bills only. Bills/SOA with Arrears or FOR DISCONNECTION should be referred to CEBECO 3 office.   \r\n",
+                "Status": true,
+                "ServiceCharge": 5.00
+            },
+            {
+                "BillerTag": "U_PESO_LENDING",
+                "Description": "U-PESO.PH LENDING CORPORATION",
+                "Category": "Loans\r\n",
+                "FieldDetails": [
+                    {
+                        "Tag": "First Field",
+                        "Caption": "8 Digit Reference Number",
+                        "Format": "AlphaNumeric",
+                        "Width": "8"
+                    },
+                    {
+                        "Tag": "Second Field",
+                        "Caption": "Customer Name",
+                        "Format": "AlphaNumeric",
+                        "Width": "30"
+                    }
+                ],
+                "Remarks": "DEACTIVATED",
+                "Status": false,
+                "ServiceCharge": 15.00
+            },
+            {
+                "BillerTag": "PECO",
+                "Description": "PANAY ELECTRIC COMPANY",
+                "Category": "Electric Utility\r\n",
+                "FieldDetails": [
+                    {
+                        "Tag": "First Field",
+                        "Caption": "6 Digit Service Number",
+                        "Format": "Aphanumeric",
+                        "Width": "6"
+                    },
+                    {
+                        "Tag": "Second Field",
+                        "Caption": "Customer Name",
+                        "Format": "Alphanumeric",
+                        "Width": "50"
+                    }
+                ],
+                "Remarks": "AFTER DUE and bills with ARREARS can still be ACCEPTED.\r\n",
+                "Status": true,
+                "ServiceCharge": 5.00
+            },
+            {
+                "BillerTag": "DECORP",
+                "Description": "DAGUPAN ELECTRIC CORPORATION",
+                "Category": "Electric Utility\r\n",
+                "FieldDetails": [
+                    {
+                        "Tag": "First Field",
+                        "Caption": "5-18 Digit Account Number",
+                        "Format": "Numeric",
+                        "Width": "18"
+                    },
+                    {
+                        "Tag": "Second Field",
+                        "Caption": "Bill Number",
+                        "Format": "Alphanumeric",
+                        "Width": "7"
+                    }
+                ],
+                "Remarks": "Payment should be exact amount including decimal\r\n",
+                "Status": true,
+                "ServiceCharge": 0.00
+            },
+            {
+                "BillerTag": "INTEGRANET_NETWORK",
+                "Description": "INTEGRANET NETWORK AND DATA SOLUTION",
+                "Category": "Cable and Internet\r\n",
+                "FieldDetails": [
+                    {
+                        "Tag": "First Field",
+                        "Caption": "7 Digit Account Number",
+                        "Format": "AlphaNumeric",
+                        "Width": "7"
+                    },
+                    {
+                        "Tag": "Second Field",
+                        "Caption": "Customer Name",
+                        "Format": "AlphaNumeric",
+                        "Width": "30"
+                    }
+                ],
+                "Remarks": "Disconnected accounts shall be settled at Intergranet Office.\r\n",
+                "Status": true,
+                "ServiceCharge": 10.00
+            },
+            {
+                "BillerTag": "LUELCO",
+                "Description": "LA UNION ELECTRIC COOPERATIVE INC",
+                "Category": "Electric Utility\r\n",
+                "FieldDetails": [
+                    {
+                        "Tag": "First Field",
+                        "Caption": "10 Digit Account Number",
+                        "Format": "Numeric",
+                        "Width": "10"
+                    },
+                    {
+                        "Tag": "Second Field",
+                        "Caption": "Account Name",
+                        "Format": "AlphaNumeric",
+                        "Width": "30"
+                    }
+                ],
+                "Remarks": "Can ACCEPT ON or BEFORE DUE DATE payments. AFTER DUE bills and with PENALTY shall be referred to LUELCO office.\r\n",
+                "Status": true,
+                "ServiceCharge": 5.00
+            },
+            {
+                "BillerTag": "LOADXTREME",
+                "Description": "LOADXTREME",
+                "Category": "Collection Service",
+                "FieldDetails": [
+                    {
+                        "Tag": "First Field",
+                        "Caption": "10 Digit ID Number",
+                        "Format": "Numeric",
+                        "Width": "10"
+                    },
+                    {
+                        "Tag": "Second Field",
+                        "Caption": "Account Name",
+                        "Format": "AlphaNumeric",
+                        "Width": "30"
+                    }
+                ],
+                "Remarks": "NULL\r\n",
+                "Status": true,
+                "ServiceCharge": 10.00
+            },
+            {
+                "BillerTag": "NWOW_MARKETING",
+                "Description": "NWOW MARKETING",
+                "Category": "Loans\r\n",
+                "FieldDetails": [
+                    {
+                        "Tag": "First Field",
+                        "Caption": "15 Digit ID Code",
+                        "Format": "Numeric",
+                        "Width": "15"
+                    },
+                    {
+                        "Tag": "Second Field",
+                        "Caption": "Account Name",
+                        "Format": "Alphanumeric",
+                        "Width": "30"
+                    }
+                ],
+                "Remarks": "NULL\r\n",
+                "Status": true,
+                "ServiceCharge": 20.00
+            },
+            {
+                "BillerTag": "TAGAYTAY_BROADBAND_AND_CATV",
+            "Description": "TAGAYTAY BROADBAND AND CATV NETWORKS INC",
+            "Category": "Cable and Internet\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "8 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "8"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Customer Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "PARTIAL PAYMENTS, AFTER DUE AND WITH PENALTY can still be ACCEPTED. \r\n",
+            "Status": true,
+            "ServiceCharge": 10.00
+        },
+        {
+            "BillerTag": "CVM_FINANCE",
+            "Description": "CVM FINANCE AND CREDIT CORP",
+            "Category": "Loans\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "16 Digit Loan Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Please include the dash \"-\" in the Loan Number\r\n",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "FILINVEST_WATER",
+            "Description": "COUNTRYWIDE WATER SERVICES (FILINVEST WATER)",
+            "Category": "Utility - Water",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Customer Account Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "17"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept Partial / Over payment / and After Due date\r\n",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "UMBRELLA",
+            "Description": "UMBRELLA FINANCIAL TECHNOLOGY INC.",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "7-12 Digit Collection ID",
+                    "Format": "Alphanumeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "IDOL_MO",
+            "Description": "IDOL_MO",
+            "Category": "Collection Service",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Reference No.",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "TAGAYTAY_WATER",
+            "Description": "TAGAYTAY CITY WATER DISTRICT",
+            "Category": "Water Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "8 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "8"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Customer Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept CURRENT Bill and AFTER Due Payments including the penalty charges.PAYMENTS made beyond 12:00AM will be posted the next day.  &nbsp;\r\n",
+            "Status": true,
+            "ServiceCharge": 8.00
+        },
+        {
+            "BillerTag": "MOTORSTAR",
+            "Description": "PROBIKES MOTORCYCLE CENTER",
+            "Category": "Loans\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "14-15 Digit Subscriber Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "PITAKAMO",
+            "Description": "PITAKAMO",
+            "Category": "Collection Service",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 10.00
+        },
+        {
+            "BillerTag": "FAMI",
+            "Description": "First Metro Asset Management Inc",
+            "Category": "Collection Service",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "14 Digit  Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "14"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "AFTERWEST_MICROLOANS",
+            "Description": "AFTERWEST MICROLOANS INC",
+            "Category": "Loans\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "9 Digit Client Code",
+                    "Format": "AlphaNumeric",
+                    "Width": "9"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "URDANETA_WATER",
+            "Description": "URDANETA CITY WATER DISTRICT",
+            "Category": "Water Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Numeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": false,
+            "ServiceCharge": 10.00
+        },
+        {
+            "BillerTag": "BLIP_MOTORS",
+            "Description": "BLIP MOTORS",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": false,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "EASYTV",
+            "Description": "EASYTV",
+            "Category": "Cable and Internet\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "16 Digit SMCID ",
+                    "Format": "Alphanumeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "BALANGA_WATER",
+            "Description": "BALANGA WATER DISTRICT ",
+            "Category": "Water Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10-11 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Customer Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Payments can be accepted On or Before Due Date. Due Date will only be accepted until 4:00PM. After Due date and With Penalty shall be refer to Balanga Water office.\r\n",
+            "Status": true,
+            "ServiceCharge": 10.00
+        },
+        {
+            "BillerTag": "LIBMANAN_WATER",
+            "Description": "LIBMANAN WATER ",
+            "Category": "Water Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "9 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Payment can still be accepted 2 days after due date. Bills with arrears will not be accepted.\r\n",
+            "Status": true,
+            "ServiceCharge": 8.00
+        },
+        {
+            "BillerTag": "GLOBAL_SME_LOANS",
+            "Description": "GLOBAL SME LOAN",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "20 Digit PN Number",
+                    "Format": "Alphanumeric",
+                    "Width": "20"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accepts partial and over payment. \r\n",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "NEECO1",
+            "Description": "NUEVA ECIJA 1 ELECTRIC COOPERATIVE, INC.",
+            "Category": "Electric Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Payment can be ACCEPTED ON or BEFORE DUE DATE. Accept CURRENT BILL ONLY.\r\n",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "AFC_SME_FINANCE",
+            "Description": "AFC SME LOANS",
+            "Category": "Loans\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "16 Digit Reference Number",
+                    "Format": "Numeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "EMCOR",
+            "Description": "EMCOR, INC.",
+            "Category": "Loans\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "12 Digit Reference Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "CTFSI",
+            "Description": "COMMERCIAL TRADE FINANCIAL SERVICES",
+            "Category": "Loans\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "12 Digit Reference Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "KSERVICO",
+            "Description": "KSERVICO",
+            "Category": "Loans\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "12 Digit Reference Number",
+                    "Format": "Numeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "KSPRIME",
+            "Description": "KS PRIME FINANCIAL CORP",
+            "Category": "Loans\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "12 Digit Reference Number",
+                    "Format": "Numeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "ILIGAN_LIGHT",
+            "Description": "ILIGAN LIGHT",
+            "Category": "Electric Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "5-7 Digit Account ID",
+                    "Format": "AlphaNumeric",
+                    "Width": "7"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "ANDALI",
+            "Description": "ASIAGROUP FINANCE CORP",
+            "Category": "Loans\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "12 Digit Reference Number",
+                    "Format": "Numeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "NOW_CORP",
+            "Description": "NOW CORPORATION",
+            "Category": "Cable and Internet\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "6-16 Digit Account Number",
+                    "Format": "6-16 Digit Account Number",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "CBN_ASIA",
+            "Description": "CHRISTIAN BROADCASTING NETWORKS ASIA",
+            "Category": "Donation\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "OPERATION_BLESSING",
+            "Description": "OPERATION BLESSING FOUNDATION PHILIPPINES, INC.",
+            "Category": "Donation\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "ASIAN_CENTER_FOR_MISSION",
+            "Description": "ASIAN CENTER FOR MISSIONS",
+            "Category": "Donation\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "DINALUPIHAN_WATER",
+            "Description": "DINALUPIHAN WATER DISTRICT ",
+            "Category": "Water Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "9-12 Digit Account Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Customer Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept CURRENT BILL and AFTER DUE provided that consumers will pay the TOTAL AMOUNT. DUE DATE and DISCONNECTED ACCOUNTS payments shall be settled at main office. \r\n",
+            "Status": true,
+            "ServiceCharge": 10.00
+        },
+        {
+            "BillerTag": "IDEAL",
+            "Description": "IDEAL PRIME VENTURES INTERNATIONAL INC",
+            "Category": "Collection Service",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Numeric",
+                    "Width": "13"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Complete Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "NULL\r\n",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "MOTORCENTRAL",
+            "Description": "MOTORCENTRAL GROUP OF COMPANIES",
+            "Category": "Loans\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "13-16 Digit Account Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Please include the dash.   Example: MCF-83-M1234-1\r\n",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "BENLIFY",
+            "Description": "BENLIFY",
+            "Category": "Loans\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "13 Digit Loan Reference Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "13"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 20.00
+        },
+        {
+            "BillerTag": "BULAKAN_WATER",
+            "Description": "BULAKAN WATER COMPANY",
+            "Category": "Water Utility\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "9 Digit Contract Account Number",
+                    "Format": "Numeric",
+                    "Width": "9"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "PAYMENTS made beyond 12:00 AM will be posted the next day",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "GIVE_A_LOVE",
+            "Description": "Give A Love Outreach Worldwide Inc.",
+            "Category": "Charity\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "GTSI",
+            "Description": "GENERAL TELEPHONE SYSTEM, INC.",
+            "Category": "Telecommunications\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Telephone Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past Due, With Penalty charges and Arrears can still be accepted.  PAYMENTS made beyond 4:00PM will be posted the next day.\r\n",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "ABRA",
+            "Description": "ABRA",
+            "Category": "Electronic Cash\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Payments will be reflected on your ABRA wallet within 2-3 business days (excluding weekends and holidays)  Please email support@abra.com if you have any questions.\r\n",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "MITSUKOSHI",
+            "Description": "MITSUKOSHI MOTORS PHILIPPINES INCORPORATED",
+            "Category": "Loans\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Reference Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "20"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "20"
+                }
+            ],
+            "Remarks": "Maximum amount per transaction is P 25,000\r\n",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "ZURICH",
+            "Description": "ZURICH FINANCE CORPORATION",
+            "Category": "Loans\r\n",
+            "FieldDetails": [
+                {"Tag": "First Field",
+                    "Caption": "7 Digit Loan ID",
+                    "Format": "AlphaNumeric",
+                    "Width": "7"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "JACCS",
+            "Description": "JACCS FINANCE PHILIPPINE CORPORATION",
+            "Category": "Loans\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "3-5 Digit Contract Number",
+                    "Format": "Numeric",
+                    "Width": "5"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "11 Digit Mobile Number + Borrower Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "ACTIVE_REALTY",
+            "Description": "ACTIVE REALTY & DEVELOPMENT CORP.",
+            "Category": "Real Estate\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "6-15 Digit Account Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "15"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Customer Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 12.00
+        },
+        {
+            "BillerTag": "FINASWIDE",
+            "Description": "FINASWIDE",
+            "Category": "Loans\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "16 Digit PN Number",
+                    "Format": "Numeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Past due Account can still be accepted\r\n",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "PRIME_LOAN_PLUS",
+            "Description": "PRIME LOAN PLUS",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Loan Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Customer Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Can accept PAST DUE, PARTIAL and WITH PENALTY charges.",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "YY_KREDIT",
+            "Description": "YY KREDIT INCORPORATED",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "16 Digit Reference Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "MAKATI_FINANCE",
+            "Description": "MAKATI FINANCE CORPORATION",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "15 Digit Reference Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "15"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "CHAILEASE_BERJAYA",
+            "Description": "CHAILEASE BERJAYA FINANCE CORPORATION",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "12 Digit Loan Account Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 100.00
+        },
+        {
+            "BillerTag": "PAY_2C2P_PLUS",
+            "Description": "2C2P",
+            "Category": "Collection Service",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Contract Number + Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Mall Location + Business Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 20.00
+        },
+        {
+            "BillerTag": "RESELLEE",
+            "Description": "RESELLEE INNOVATIONS AND MOBILE SOLUTIONS, INC.",
+            "Category": "Collection Service",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Reference Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,"ServiceCharge": 20.00
+        },
+        {
+            "BillerTag": "GOLDEN_FUTURE_LIFEPLANS",
+            "Description": "GOLDEN FUTURE LIFE PLANS INC",
+            "Category": "Insurance",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Policy Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 20.00
+        },
+        {
+            "BillerTag": "CROPITAL",
+            "Description": "CROPITAL",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "8 Digit Reference Code",
+                    "Format": "AlphaNumeric",
+                    "Width": "8"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 20.00
+        },
+        {
+            "BillerTag": "BINANGONAN_CABLE",
+            "Description": "BINANGONAN CABLE TV CORPORATION",
+            "Category": "Cable and Internet",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "1-6 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "6"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 10.00
+        },
+        {
+            "BillerTag": "KABAYAN_CABLE",
+            "Description": "KABAYAN CABLE CORPORATION",
+            "Category": "Cable and Internet",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "1-6 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "6"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 10.00
+        },
+        {
+            "BillerTag": "SKYLINE_CATV",
+            "Description": "SKYLINE CATV INDUSTRIES, INC.",
+            "Category": "Cable and Internet",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "1-6 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "6"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 10.00
+        },
+        {
+            "BillerTag": "CITI_APPLIANCE",
+            "Description": "CITI APPLIANCE (VHAI)",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "12-16 Digit Account Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Please enter 12-16 Alphanumeric Account Number  Minimum amount accepted is P500.00",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "CASHBEE",
+            "Description": "CASHBEE",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "14-15 Digit Reference Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "15"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "ORICO",
+            "Description": "ORICO AUTO FINANCE PHILIPPINES",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "12-18 Digit Reference Number",
+                    "Format": "Numeric",
+                    "Width": "18"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 50.00
+        },
+        {
+            "BillerTag": "CEPAT_KREDIT",
+            "Description": "CEPAT KREDIT FINANCING INC.",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "16 Digit PN Reference Number",
+                    "Format": "Numeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "PESOMAT",
+            "Description": "PESOMAT LENDING CORP. ",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name","Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "ENCORE",
+            "Description": "ENCORE LEASING AND FINANCE CORP",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Loan Number ",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Customer Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "AQUA_CENTRO",
+            "Description": "AQUA CENTRO MWPV CORP. INC",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "9 Digit Contact Number",
+                    "Format": "Numeric",
+                    "Width": "9"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "CAROUSELL",
+            "Description": "CAROUSELL",
+            "Category": "eCommerce",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Reference Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                }
+            ],
+            "Remarks": "Transaction is posted real-time (voiding not allowed)",
+            "Status": false,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "UNIONBANK_QUICKLOANS",
+            "Description": "UNIONBANK_QUICKLOANS",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "16 Digit Loan Account Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Customer Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 10.00
+        },
+        {
+            "BillerTag": "FIRSTMETROSEC",
+            "Description": "FIRST METRO SECURITIES BROKERAGE CORPORATION",
+            "Category": "Collection Service",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "8-12 Digit Account Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "PHINMA_EDUCATION",
+            "Description": "PHINMA EDUCATION HOLDINGS, INC.",
+            "Category": "Education",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "13-18 Digit Student Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "18"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Student Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "AGRIBANK",
+            "Description": "AGRIBANK",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "6-10 Digit Loan ID Number",
+                    "Format": "Alphanumeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Borrowers Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "PERSONAL_COLLECTION",
+            "Description": "PERSONAL COLLECTION DIRECT SELLING INC.",
+            "Category": "Collection Service",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10-12 Digit Conso ID",
+                    "Format": "Alphanumeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Customer Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "INSULAR_LIFE",
+            "Description": "THE INSULAR LIFE ASSURANCE COMPANY, LTD.",
+            "Category": "Insurance",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "8-12 Digit Policy Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Policy Holder Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "ASIAN_VISION_CABLE",
+            "Description": "ASIAN VISION CABLE HOLDINGS, INC",
+            "Category": "Cable and Internet",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Branch Code + Account Number",
+                    "Format": "Numeric",
+                    "Width": "8"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept On or Before Due Date Bill Payments.  &rdquo;Current Bill&rdquo;only. Exact Amount including decimal.",
+            "Status": true,
+            "ServiceCharge": 10.00
+        },
+        {
+            "BillerTag": "CARD_INC",
+            "Description": "CARD INC.",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10-13 Digit CIF Number",
+                    "Format": "Numeric",
+                    "Width": "13"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name (FirstName, MiddleInitial, LastName)",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 15.00
+        },
+        {
+            "BillerTag": "FIRST_BAY_POWER",
+            "Description": "FIRST BAY POWER CORP.(FBPC) ",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "4-12 Digits Account Number ",
+                    "Format": "AlphaNumeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Bill ID",
+                    "Format": "Numeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept On or Before Due Date Bill only.  Payments made beyond 3:00PM will be posted the next day.",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "FOREST_LAKE",
+            "Description": "FOREST LAKE DEVELOPMENT, INC",
+            "Category": "Collection Service\r\n",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Purchase Agreement Number",
+                    "Format": "AlphaNumeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name ",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "CALAMBA_INSTITUTE",
+            "Description": "CALAMBA INSTITUTE",
+            "Category": "Education",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Student Name (Last Name, First Name)",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "School Branch",
+                    "Format": "Alphanumeric",
+                    "Width": "9"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "CAGELCO2",
+            "Description": "CAGAYAN2 ELECTRIC COOP. INC.",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "14 Digit  Account Number ",
+                    "Format": "Alphanumeric",
+                    "Width": "14"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name ",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept CURRENT BILL and until DUE DATE. Dashes &nbsp;&ldquo;-&ldquo; included.  Payments made beyond 6:00PM will be posted the next day.",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "CEBU_CFI_COOP",
+            "Description": "CEBU CFI COMMUNITY COOPERATIVE",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Loan Type",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "FIRST_STANDARD",
+            "Description": "FIRST_STANDARD",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Alphanumeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Client Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "TARELCO1",
+            "Description": "TARLAC1 ELECTRIC COOP, INC.",
+            "Category": "Electric Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept&nbsp;On&nbsp;or&nbsp;Before Due Date.&nbsp;&ldquo;Current Bill&rdquo; only.  Payments made beyond 12:00AM will be posted the next day.",
+            "Status": true,
+            "ServiceCharge": 5.00
+        },
+        {
+            "BillerTag": "EPRIME",
+            "Description": "CARRISA, MICAZA, BASIC ENTERPRISE & ePRIME Cables",
+            "Category": "Collection Service",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "10 Digit Account Number",
+                    "Format": "Numeric",
+                    "Width": "12"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "ATM Reference Number",
+                    "Format": "Numeric",
+                    "Width": "14"
+                }
+            ],
+            "Remarks": "Accept Bills On or Before DUE DATE to avoid DISCONNECTION",
+            "Status": false,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "SOLANO_WATER",
+            "Description": "SNV RESOURCES DEVELOPMENT, CORP.",
+            "Category": "Water Utility",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "Account Number",
+                    "Format": "Numeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "Accept &ldquo;Current Bill and Advance payment only&rdquo; . No Partial payment.  Payments made beyond 4:00PM will be posted the next day.",
+            "Status": true,
+            "ServiceCharge": 10.00
+        },
+        {
+            "BillerTag": "MLQU",
+            "Description": "MANUEL L. QUEZON UNIVERSITY",
+            "Category": "Education",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "8-10 Digit Student Number with dash",
+                    "Format": "AlphaNumeric",
+                    "Width": "10"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Surname and Purpose",
+                    "Format": "AlphaNumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 20.00
+        },
+        {
+            "BillerTag": "DIBBLE",
+            "Description": "DIBBLE XPRESS",
+            "Category": "Collection Service",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "11 Digit Mobile Number",
+                    "Format": "Numeric",
+                    "Width": "11"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Rider Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 0.00
+        },
+        {
+            "BillerTag": "ASIALINK",
+            "Description": "ASIALINK",
+            "Category": "Loans",
+            "FieldDetails": [
+                {
+                    "Tag": "First Field",
+                    "Caption": "16 Digit PN Number",
+                    "Format": "Numeric",
+                    "Width": "16"
+                },
+                {
+                    "Tag": "Second Field",
+                    "Caption": "Account Name",
+                    "Format": "Alphanumeric",
+                    "Width": "30"
+                }
+            ],
+            "Remarks": "",
+            "Status": true,
+            "ServiceCharge": 0.00
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+
+.bg-primary{
+    background-color: #0071C6;
+}
+
+.text-primary-500{
+    color: #0071C6;
+}
+
+.rounded-30{
+    border-radius: 30px;
+}
+
+.rounded-99{
+    border-radius: 99px;
+}
+
+@media(max-width:1520px) {
+    .left-svg {
+        display: none;
+    }
+}
+
+/* small css for the mobile nav close */
+#nav-mobile-btn.close span:first-child {
+    transform: rotate(45deg);
+    top: 4px;
+    position: relative;
+    background: #a0aec0;
+}
+
+#nav-mobile-btn.close span:nth-child(2) {
+    transform: rotate(-45deg);
+    margin-top: 0px;
+    background: #a0aec0;
+}
+
+@media (max-width:768px) {
+    .logo-img{
+        height: 80px !important;
+    }
+}
+
+@media (max-width:639px) {
+    .banner-img-1{
+        background-position-x: 20% !important;
+    }
+}
+
+.nav-link:hover{
+    color: #0071C6;   
+}
+
+/* Contact Us */
+.contact-icons{
+    width: 18px;
+}
+.contact-a:hover{
+  text-decoration: underline;
+}
+/* End Contact Us */
+
+@media (max-width:640px) {
+  .partners-imgs{
+    max-width: 150px;
+  }
+}
+
+a.mr-0.font-bold.duration-100.md\:mr-3.lg\:mr-8.transition-color.nav-link.active {
+    color:#0071C6;
+}
+
+#headerMain{
+    height: 110px;
+}
+
+.search-billers{
+    width: 400px;
+    max-width: 400px;
+}
+
+@media (max-width: 500px) {
+    .search-billers{
+        width: 100%;
+        max-width: 400px;
+    }
+}
