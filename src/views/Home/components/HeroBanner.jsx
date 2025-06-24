@@ -12,11 +12,10 @@ const HeroBanner = () => {
       <div className="container flex flex-col items-center justify-between h-full max-w-6xl px-8 mx-auto -mt-32 lg:flex-row xl:px-0">
         <div className="z-30 flex flex-col items-center w-full max-w-xl pt-48 text-center lg:items-start lg:w-1/2 lg:pt-10 lg:text-left">
           <h1 className="relative mb-4 text-4xl leading-tight text-gray-900 sm:text-6xl xl:mb-8 font-semibold">
-            Your Convenient Bills Payment App
+            Pay Smarter, Live Better
           </h1>
           <p className="pr-0 mb-8 text-base text-gray-600 sm:text-lg xl:text-xl lg:pr-20">
-            Experience seamless and secure payment transactions with eBayadMo
-            App, your trusted partner for online bills payment.
+            Discover the fastest way to settle your bills online. With ePayment App, everything is just a tap away — reliable, fast, and secure.
           </p>
           <Link to="/under-construction" className="relative lg:self-start self-center inline-block">
             <img
