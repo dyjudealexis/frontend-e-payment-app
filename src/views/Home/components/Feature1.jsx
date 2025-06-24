@@ -16,7 +16,7 @@ const Feature1 = () => {
           
           <div className="w-full lg:w-1/2 text-center">
             <h2 className="sm:text-4xl text-2xl font-semibold text-gray-900 mb-4 ">
-              Why Choose eBayadMo?
+              Why Choose ePayment App?
             </h2>
             <p className="text-gray-600 mb-4">
               <span className="font-semibold">Fast & Reliable Transactions:</span> Enjoy quick and dependable payment
