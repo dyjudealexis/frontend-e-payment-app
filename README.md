@@ -1,9 +1,73 @@
-# React + Vite
+# ePayment App – Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the frontend of the **ePayment App** by **Jude Alexis Dy**, a modern digital payment platform built with **React** and **Vite** for lightning-fast performance and a seamless user experience.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# frontend-e-payment-app" 
+- **React 18** – UI library for building component-based UIs.
+- **Vite** – Next-generation frontend tooling for fast development and hot module replacement (HMR).
+- **Tailwind CSS** – Utility-first CSS framework for styling (if used).
+- **React Router DOM** – For client-side routing.
+
+## 📦 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/dyjudealexis/frontend-e-payment-app.git
+cd frontend-e-payment-app
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start development server
+
+```bash
+npm run dev
+```
+
+This will start the app at [http://localhost:5173](http://localhost:5173) with Hot Module Replacement enabled.
+
+## ⚙️ Available Scripts
+
+- `npm run dev` – Start development server
+- `npm run build` – Build for production
+- `npm run preview` – Preview production build
+- `npm run lint` – Run ESLint checks (if configured)
+
+## 📁 Project Structure
+
+```
+src/
+├── assets/         
+├── components/     
+├── partials/           
+├── utils/         
+├── views/          
+├── App.jsx         
+└── main.jsx         
+```
+
+## 🔐 Environment Variables
+
+Create a `.env` file in the root directory:
+
+```
+VITE_API_URL=http://localhost:5173
+```
+
+## 🛡️ ESLint & Formatting
+
+Preconfigured with ESLint for consistent code quality and formatting. You can extend the config as needed.
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Developed with ❤️ by Jude Alexis Dy
